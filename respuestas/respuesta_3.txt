@@ -1,1 +1,4 @@
 TIPO | Justificación corta
+
+Tipo: Serie temporal (base de datos orientada a series temporales).
+Justificación corta: Las transacciones se registran en función del tiempo, permitiendo análisis histórico, evolución y detección de tendencias, lo cual es característico de las estructuras o bases de datos de series temporales.
