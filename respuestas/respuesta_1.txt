@@ -1,1 +1,4 @@
 TIPO | Justificación corta
+
+Tipo: Grafo no dirigido (simple), etiquetado.
+Justificación corta: Las relaciones son bidireccionales (si A se relaciona con B, B con A), por lo que el grafo es no dirigido. Los nodos representan personas y las aristas representan relaciones sociales. Se analizan grados de separación, lo que implica estudiar distancias en el grafo.
