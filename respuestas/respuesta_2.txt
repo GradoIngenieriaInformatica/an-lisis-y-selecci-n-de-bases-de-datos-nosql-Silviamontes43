@@ -1,1 +1,4 @@
 TIPO | Justificación corta
+
+Tipo: Tabla hash distribuida (DHT).
+Justificación corta: Las consultas se basan en identificadores únicos, lo que permite acceso directo mediante funciones hash. Al ser distribuido, los datos se reparten entre varios nodos para mejorar escalabilidad y disponibilidad.
