@@ -1,4 +1,5 @@
 TIPO | Justificación corta
 
-Tipo: Tabla hash distribuida (DHT).
-Justificación corta: Las consultas se basan en identificadores únicos, lo que permite acceso directo mediante funciones hash. Al ser distribuido, los datos se reparten entre varios nodos para mejorar escalabilidad y disponibilidad.
+Tipo: base de datos clave-valor (key-value store)
+Justificación corta: Porque un sistema de caché distribuido que responde consultas por identificadores únicos accede directamente mediante una clave única -> valor asociado, optimizando velocidad y escalabilidad, que es precisamente el modelo clave–valor.
+También, tres razones importantes a tener en cuenta: velocidad de acceso, escalabilidad horizontal, eficiencia en lectura.
